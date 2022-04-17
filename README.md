@@ -1,1 +1,1 @@
-# PWA-Ecommenrce
+# pwa-ecommerce-hosting
